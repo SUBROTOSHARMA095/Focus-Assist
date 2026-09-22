@@ -85,10 +85,7 @@ WhatsApp.exe,72
 - This project is intended for Windows-based app monitoring because it checks for `.exe` processes.
 - Use this responsibly and only for apps you intentionally want to limit.
 - The script may need to be run with administrator privileges depending on your system and the apps being managed.
-
-## License
-
-This project does not currently include a license file. If you plan to share or distribute it publicly, you may want to add an open-source license such as MIT.
+  
 
 ## Project status
 
